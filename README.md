@@ -24,3 +24,7 @@ Reworked HTML and CSS
 RecceRaven - @notmyrealtwitter - notmyrealemail@gmail.com
 
 Project link: https://github.com/RecceRaven/challenge01
+
+## Credits
+
+The original code was initially provided by the instructors on course
